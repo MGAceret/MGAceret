@@ -21,7 +21,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" valign="middle" /> Tech Stack & Tools
 
 <!-- Languages & Web Technologies -->
 **Languages & Core Web:**  
@@ -66,16 +66,13 @@ TIP: Replace the placeholder project names, descriptions, and repository URLs wi
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MGAceret&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MGAceret&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
-</p>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Magnifying%20Glass%20Tilted%20Right.webp" alt="Magnifying Glass Tilted Right" width="25" height="25" valign="middle" /> Focusing
 
 ---
 
-### 📬 Connect With Me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="25" height="25" valign="middle" /> Connect With Me
+
+---
 
 <!-- 
 TIP: Replace the '#' in href with your actual profile links, e.g.:
