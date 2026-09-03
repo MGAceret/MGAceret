@@ -15,9 +15,9 @@
 **Full-Stack & Web Developer** specializing in building reliable web applications, clean database architectures, and responsive user experiences.
 
 <!-- 💡 RECRUITER TL;DR: Quick overview of current status -->
-- 💼 **Status:** Open to Full-Stack, Web Development, and Software Engineering roles / internships.
+- 💼 **Status:** Open to Full-Stack, Web Development, and Software Engineering roles.
 - 🔭 **Currently Building:** Full-stack database-driven web applications using PHP, JavaScript, and MySQL.
-- 💬 **Ask Me About:** Front-end development, backend PHP logic, relational database design (MySQL / SQL Server), and C++ problem-solving.
+- 💬 **Ask Me About:** Front-end development, backend PHP logic, relational database design (MySQL / SQL Server).
 
 ---
 
@@ -45,10 +45,9 @@
 <!-- 
 TIP: Customize your milestones, education, or developer journey below.
 -->
-- 📍 **The Beginning:** Started with foundations in **C++** and core computer science concepts.
+- 📍 **The Beginning:** Started with foundations in **C++** and Object Oriented Programming concepts.
 - 🌐 **Web Development:** Expanded into interactive web applications with **HTML, CSS, JavaScript, and PHP**.
 - 🗄️ **Databases & Systems:** Deepened backend capabilities with relational database architecture using **MySQL** and **SQL Server (SSMS)**.
-- 🎯 **Current Focus:** Building production-ready full-stack projects and seeking software engineering / web development opportunities.
 
 ---
 
@@ -67,6 +66,10 @@ TIP: Replace the placeholder project names, descriptions, and repository URLs wi
 ---
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Magnifying%20Glass%20Tilted%20Right.webp" alt="Magnifying Glass Tilted Right" width="25" height="25" valign="middle" /> Focusing
+
+<!-- Would it be possible to place a live focus page instead of updating the readme every single time? (Suggestion) -->
+
+<!-- Display Project/Video Demo Here -->
 
 ---
 
