@@ -12,12 +12,18 @@
 # Matthew Aceret <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Melting%20Face.webp" alt="Melting Face" width="50" height="50" valign="middle" />
 
 
-**Full-Stack & Web Developer** specializing in building reliable web applications, clean database architectures, and responsive user experiences.
+**Web Developer** I like to build and design my websites the same way I make animations; always my 110% of my effort as the fruits of my labor will always be satisfying; with or without recognition.   
+
+Majority of my projects were built in HTML, CSS, JavaScript, and PHP.
+
+Curiosisty shall be the driving force of my strength to convert coding performance into deployed practical solutions.
+
+
 
 <!-- 💡 RECRUITER TL;DR: Quick overview of current status -->
 - 💼 **Status:** Open to Full-Stack, Web Development, and Software Engineering roles.
-- 🔭 **Currently Building:** Full-stack database-driven web applications using PHP, JavaScript, and MySQL.
-- 💬 **Ask Me About:** Front-end development, backend PHP logic, relational database design (MySQL / SQL Server).
+- 📚 **Currently Learning:** Frameworks for advanced proficiency in either CSS or JavaScript
+- 🌱 **Exploring Next:** Modern frontend frameworks and deeper backend architectures.
 
 ---
 
@@ -59,9 +65,7 @@ TIP: Replace the placeholder project names, descriptions, and repository URLs wi
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **Project One** | A dynamic web application featuring user authentication, session handling, and CRUD operations. | `PHP` `MySQL` `JavaScript` `CSS` | [Code](https://github.com/MGAceret) • [Demo](https://github.com/MGAceret) |
-| **Project Two** | A database management system and query reporting tool built with SQL Server and web front-end. | `SSMS` `SQL Server` `HTML/CSS` `JS` | [Code](https://github.com/MGAceret) • [Demo](https://github.com/MGAceret) |
-| **Project Three** | Core algorithms and data structures implementation optimized for performance and efficiency. | `C++` `OOP` `Data Structures` | [Code](https://github.com/MGAceret) |
+| **Project One** | A static web application as an incremental game featuring a beyblade/top as the focus of ever-so increasing improvement. | `HTML` `JavaScript` `CSS` | [Code](https://github.com/MGAceret) • [Demo](https://github.com/MGAceret) |
 
 ---
 
@@ -75,8 +79,6 @@ TIP: Replace the placeholder project names, descriptions, and repository URLs wi
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="25" height="25" valign="middle" /> Connect With Me
 
----
-
 <!-- 
 TIP: Replace the '#' in href with your actual profile links, e.g.:
 - LinkedIn: https://linkedin.com/in/your-username
@@ -85,13 +87,13 @@ TIP: Replace the '#' in href with your actual profile links, e.g.:
 -->
 
 <p align="left">
-  <a href="https://linkedin.com/in/#" target="_blank">
+  <a href="https://linkedin.com/in/mgaceret" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:mgaceret@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="xyans.chemist3.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </p>
