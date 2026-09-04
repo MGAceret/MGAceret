@@ -71,9 +71,9 @@ TIP: Replace the placeholder project names, descriptions, and repository URLs wi
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Magnifying%20Glass%20Tilted%20Right.webp" alt="Magnifying Glass Tilted Right" width="25" height="25" valign="middle" /> Focusing
 
-<!-- Would it be possible to place a live focus page instead of updating the readme every single time? (Suggestion) -->
-
-<!-- Display Project/Video Demo Here -->
+<!-- RECENT_ACTIVITY_START -->
+- 🚀 **Latest Project:** *(Will automatically update with your latest pushed repository)*
+<!-- RECENT_ACTIVITY_END -->
 
 ---
 
@@ -93,7 +93,7 @@ TIP: Replace the '#' in href with your actual profile links, e.g.:
   <a href="mailto:mgaceret@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="xyans.chemist3.com" target="_blank">
+  <a href="https://xyans.chemist3.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </p>
