@@ -12,11 +12,11 @@
 # Matthew Aceret <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Melting%20Face.webp" alt="Melting Face" width="50" height="50" valign="middle" />
 
 
-**Web Developer** I like to build and design my websites the same way I make animations; always my 110% of my effort as the fruits of my labor will always be satisfying; with or without recognition.   
+**Web Developer** I like to build and design my websites the same way I make animations — always giving 110% of my effort, as the fruits of my labor will always be satisfying, with or without recognition.
 
-Majority of my projects were built in HTML, CSS, JavaScript, and PHP.
+The majority of my projects are built in HTML, CSS, JavaScript, and PHP.
 
-Curiosisty shall be the driving force of my strength to convert coding performance into deployed practical solutions.
+Curiosity shall be the driving force of my strength to convert coding performance into deployed practical solutions.
 
 
 
