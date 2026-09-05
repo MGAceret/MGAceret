@@ -20,7 +20,7 @@ Curiosisty shall be the driving force of my strength to convert coding performan
 
 
 
-<!-- 💡 RECRUITER TL;DR: Quick overview of current status -->
+<!-- Quick Overview of MGAceret -->
 - 💼 **Status:** Open to Full-Stack, Web Development, and Software Engineering roles.
 - 📚 **Currently Learning:** Frameworks for advanced proficiency in either CSS or JavaScript
 - 🌱 **Exploring Next:** Modern frontend frameworks and deeper backend architectures.
@@ -41,16 +41,13 @@ Curiosisty shall be the driving force of my strength to convert coding performan
 **Databases & Database Tools:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server%20/%20SSMS-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Compass.webp" alt="Compass" width="25" height="25" valign="middle" /> Coding Journey
 
-<!-- 
-TIP: Customize your milestones, education, or developer journey below.
--->
+<!-- Milestones/Developer Journey -->
 - 📍 **The Beginning:** Started with foundations in **C++** and Object Oriented Programming concepts.
 - 🌐 **Web Development:** Expanded into interactive web applications with **HTML, CSS, JavaScript, and PHP**.
 - 🗄️ **Databases & Systems:** Deepened backend capabilities with relational database architecture using **MySQL** and **SQL Server (SSMS)**.
@@ -59,9 +56,7 @@ TIP: Customize your milestones, education, or developer journey below.
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="25" height="25" valign="middle" /> Featured Projects
 
-<!-- 
-TIP: Replace the placeholder project names, descriptions, and repository URLs with your own project details.
--->
+<!-- Project List -->
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
@@ -71,22 +66,17 @@ TIP: Replace the placeholder project names, descriptions, and repository URLs wi
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Magnifying%20Glass%20Tilted%20Right.webp" alt="Magnifying Glass Tilted Right" width="25" height="25" valign="middle" /> Focusing
 
-<!-- RECENT_ACTIVITY_START -->
+<!-- Recent Activity -->
+- **Note:** Currently testing to dynamically display recently pushed commits (public repositories)
+  
 - 🚀 **[admin-dashboard](https://github.com/MGAceret/admin-dashboard)** *(Active 64 days ago)*  
   > 📝 *Latest Commit:* "Update README"  
   > 🛠️ **Primary Tech:** `HTML`  
-<!-- RECENT_ACTIVITY_END -->
-
 ---
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="25" height="25" valign="middle" /> Connect With Me
 
-<!-- 
-TIP: Replace the '#' in href with your actual profile links, e.g.:
-- LinkedIn: https://linkedin.com/in/your-username
-- Email: mailto:your-email@example.com
-- Portfolio: https://your-portfolio-site.com
--->
+<!-- Contact Information-->
 
 <p align="left">
   <a href="https://linkedin.com/in/mgaceret" target="_blank">
