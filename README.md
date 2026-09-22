@@ -60,7 +60,7 @@ Curiosity shall be the driving force of my strength to convert coding performanc
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **Project One** | A static web application as an incremental game featuring a beyblade/top as the focus of ever-so increasing improvement. | `HTML` `JavaScript` `CSS` | [Code](https://github.com/MGAceret) • [Demo](https://github.com/MGAceret) |
+| **StudyMation** | A browser extension and precision playback overlay for YouTube designed to enhance the video analysis experience when studying choreography, action scenes, and animation references.-so increasing improvement. | `ManifestV3` `JavaScript` `CSS` | [Code](https://github.com/MGAceret](https://github.com/MGAceret/StudyMation)) |
 
 ---
 
