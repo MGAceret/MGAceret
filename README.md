@@ -66,12 +66,14 @@ Curiosity shall be the driving force of my strength to convert coding performanc
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Magnifying%20Glass%20Tilted%20Right.webp" alt="Magnifying Glass Tilted Right" width="25" height="25" valign="middle" /> Focusing
 
-<!-- Recent Activity -->
+<!-- RECENT_ACTIVITY_START -->
 - **Note:** Currently testing to dynamically display recently pushed commits (public repositories)
   
 - 🚀 **[admin-dashboard](https://github.com/MGAceret/admin-dashboard)** *(Active 64 days ago)*  
   > 📝 *Latest Commit:* "Update README"  
   > 🛠️ **Primary Tech:** `HTML`  
+<!-- RECENT_ACTIVITY_END -->
+
 ---
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="25" height="25" valign="middle" /> Connect With Me
