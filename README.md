@@ -66,6 +66,8 @@ Curiosity shall be the driving force of my strength to convert coding performanc
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Magnifying%20Glass%20Tilted%20Right.webp" alt="Magnifying Glass Tilted Right" width="25" height="25" valign="middle" /> Focusing
 
+- **Note:** Currently testing to dynamically display recently pushed commits (public repositories)
+
 <!-- RECENT_ACTIVITY_START -->
 - 🚀 **[Incremental-Beyblade](https://github.com/MGAceret/Incremental-Beyblade)** — *A website application featuring an incremental aspect of the game in a look of a beyblade as inspiration to the anime and a mobile game called 'The Tower'. Concept on the other hand is inspired by 'Johnny Upgrade'* *(Active 26 days ago)*  
   > 📝 *Latest Commit:* "initial commit: project specifications of the website"  
