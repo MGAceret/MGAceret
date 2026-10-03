@@ -69,7 +69,7 @@ Curiosity shall be the driving force of my strength to convert coding performanc
 - **Note:** Currently testing to dynamically display recently pushed commits (public repositories)
 
 <!-- RECENT_ACTIVITY_START -->
-- 🚀 **[Incremental-Beyblade](https://github.com/MGAceret/Incremental-Beyblade)** — *A website application featuring an incremental aspect of the game in a look of a beyblade as inspiration to the anime and a mobile game called 'The Tower'. Concept on the other hand is inspired by 'Johnny Upgrade'* *(Active 10 hours ago)*  
+- 🚀 **[Incremental-Beyblade](https://github.com/MGAceret/Incremental-Beyblade)** — *A website application featuring an incremental aspect of the game in a look of a beyblade as inspiration to the anime and a mobile game called 'The Tower'. Concept on the other hand is inspired by 'Johnny Upgrade'* *(Active 14 hours ago)*  
   > 📝 *Latest Commit:* "Recent code updates"  
   > 🛠️ **Primary Tech:** `CSS`  
 <!-- RECENT_ACTIVITY_END -->
