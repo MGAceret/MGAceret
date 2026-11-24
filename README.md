@@ -60,7 +60,7 @@ Curiosity shall be the driving force of my strength to convert coding performanc
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **StudyMation** | A browser extension and precision playback overlay for YouTube designed to enhance the video analysis experience when studying choreography, action scenes, and animation references.-so increasing improvement. | `ManifestV3` `JavaScript` `CSS` | [Code](https://github.com/MGAceret/StudyMation) |
+| **StudyMation** | A browser extension and precision playback overlay for YouTube designed to enhance the video analysis experience when studying choreography, action scenes, and animation references.-so increasing improvement. | `ManifestV3` `JavaScript` `CSS` | [Code](https://github.com/MGAceret/StudyMation) · [Chrome Web Store](https://chromewebstore.google.com/detail/studymation/hincocolibkegcnbbolgklhfckndlalm?authuser=0&hl=en)|
 
 ---
 
